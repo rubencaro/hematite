@@ -5,3 +5,4 @@ authors = ["Rubén Caro <ruben.caro.estevez@gmail.com>"]
 
 [dependencies]
 actix-web = "0.7"
+rocksdb = "0.10.1"
